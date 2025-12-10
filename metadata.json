@@ -1,0 +1,5 @@
+{
+  "name": "مدير بيانات جوجل شيت (Google Sheet Data Manager)",
+  "description": "تطبيق متكامل لإدارة البيانات مع مزامنة تلقائية لجوجل شيت، يعمل بدون إنترنت (Offline First) ويدعم اللغة العربية.",
+  "requestFramePermissions": []
+}
